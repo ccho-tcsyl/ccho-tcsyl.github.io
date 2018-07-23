@@ -1,0 +1,40 @@
+.theme {
+    background-color: aliceblue;
+    text-align: center
+}
+
+
+.title {
+    color: mintcream;
+    font-size: 100px;
+    background-color: lightseagreen;
+    text-align: center;
+    box-shadow: 5px 10px #888888;
+    font-style: italic
+}
+
+
+.hobbies {
+    color: white;
+    font-size: 55px;
+    text-align: center;
+    background-color: lightseagreen;
+    box-shadow: 2px 5px  #888888;
+    font-style: oblique
+}
+
+.simple-list {
+
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    border-style: double
+}
+
+
+.logo{
+
+width: 600px
+
+}
+
